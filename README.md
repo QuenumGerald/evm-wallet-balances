@@ -1,1 +1,1 @@
-# Wallet-Balances-Component
+# transactions-component
